@@ -1,4 +1,4 @@
-# Customer Purchases History - Association Rule Mining
+# Customer Purchases History - Association Rule ML Model
 
 This project analyzes customer purchase data to uncover hidden patterns and associations using the Apriori algorithm. The primary objective is to identify frequent itemsets and generate actionable association rules to improve business strategies such as cross-selling and marketing.
 
